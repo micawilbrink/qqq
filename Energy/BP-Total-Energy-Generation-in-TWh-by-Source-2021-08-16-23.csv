@@ -1,0 +1,11 @@
+energyType,amount
+chartInfo,Title: BP Total Energy Generation by Energy Type | Y-axis: Energy Type | X-axis: Terawatt Hours (TWh) | Time Range: 2021 | Source Url: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
+Coal,10244
+Gas,6518
+Hydro,4274
+Nuclear,2800
+Wind,1862
+Solar,1033
+Oil,720
+Biogas,628
+Biodiesel,456
