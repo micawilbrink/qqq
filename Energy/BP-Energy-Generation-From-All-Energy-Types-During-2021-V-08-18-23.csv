@@ -1,0 +1,11 @@
+Energy Type,TWh
+Coal,10244
+Gas,6518
+Hydro,4274
+Nuclear,2800
+Wind,1862
+Solar,1033
+Oil,720
+Biogas,628
+Biodiesel,456
+chartInfo,id : DN440131044 | title : BP Energy Generation From All Energy Types During 2021 | unit : Terawatt Hours (TWh) | yAxis : Energy Type | xAxis : Terawatt Hours (TWh) | timeRange : 2021 | sourceUrl : https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
