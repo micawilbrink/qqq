@@ -1,0 +1,5 @@
+Country,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+China,89.2,93.8,93.8,93.8,105,105,105,105,120,132,140,168
+US,0,0,3,5.5,5.4,5.9,0,0,18,28,39,43
+Australia,0,2.2,3.2,1.3,6.2,11.9,13.9,17.3,18.6,17.6,21.1,22.5
+chartInfo,chartType : time | title : BP Rare Earth Production From Top 3 Countries During 2010 to 2021 | timeRange : 2010-2021 | unit : Thousand Tonnes ( tt ) | yAxis : Country | xAxis : Year | id : DN623724646 | sourceUrl : https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html,,,,,,,,,,,
